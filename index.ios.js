@@ -40,11 +40,11 @@ var styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#222',
+        backgroundColor: '#222'
     },
     text: {
         color: '#E2CCAC',
-        fontFamily: 'Menlo',
+        fontFamily: 'CutiveMono-Regular',
         fontSize: 50
     }
 });
